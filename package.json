@@ -1,0 +1,25 @@
+{
+  "name": "testbaufestchallenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cypress:runner": "cypress open",
+    "cypress:execution": "cypress run",
+    "cypress:execution-tags": "cypress run --env tags=@mobile"    
+  },
+  "keywords": [
+    "cypress",
+    "challenge",
+    "test"
+  ],
+  "author": "Barbara L. Chacon",
+  "license": "ISC",
+  "devDependencies": {
+    "@badeball/cypress-cucumber-preprocessor": "^13.0.2",
+    "@bahmutov/cypress-esbuild-preprocessor": "^2.1.5",
+    "cypress": "^10.9.0",
+    "esbuild": "^0.15.10",
+    "multiple-cucumber-html-reporter": "^3.0.1"
+  }
+}
