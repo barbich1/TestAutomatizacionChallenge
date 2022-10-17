@@ -1,4 +1,4 @@
-# 👩‍💻TestBaufestChallenge
+# 👩‍💻TestAutomatizacionChallenge
  
 Ejercicio de automatización sobre la web de una PRODUCT STORE, en donde se utilizan scripts y herramientas para poder controlar la ejecución de las pruebas de interfaz gráfica de un usuario. Un marco de prueba que genera eventos de la interfaz de usuario, como pulsaciones de teclas y clics del mouse, donde se observa los cambios que resultan en la interfaz de usuario, para validar que el comportamiento observable del programa es correcto.
 
